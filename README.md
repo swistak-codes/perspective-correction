@@ -1,6 +1,6 @@
 # perspective-correction
 
-Prezentacje z artykułu: ...
+Prezentacje z artykułu: https://swistak.codes/post/korekcja-perspektywy/
 
 ## opencv-example
 
